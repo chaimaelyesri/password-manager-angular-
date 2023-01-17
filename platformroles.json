@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "61a8a43b13910d09d49a38fc"
+  },
+  "name": "role1",
+  "platform": {
+    "$oid": "61a8a43b13910d09d49a38fb"
+  },
+  "createdAt": {
+    "$date": "2021-12-02T10:47:23.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-02T10:47:23.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a8a43b13910d09d49a38fd"
+  },
+  "name": "role2",
+  "platform": {
+    "$oid": "61a8a43b13910d09d49a38fb"
+  },
+  "createdAt": {
+    "$date": "2021-12-02T10:47:23.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-02T10:47:23.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a8a4ac13910d09d49a38ff"
+  },
+  "name": "admin",
+  "platform": {
+    "$oid": "61a8a4ac13910d09d49a38fe"
+  },
+  "createdAt": {
+    "$date": "2021-12-02T10:49:16.560Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-02T10:49:16.560Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a8a4ac13910d09d49a3900"
+  },
+  "name": "agent",
+  "platform": {
+    "$oid": "61a8a4ac13910d09d49a38fe"
+  },
+  "createdAt": {
+    "$date": "2021-12-02T10:49:16.560Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-02T10:49:16.560Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a8a4ac13910d09d49a3901"
+  },
+  "name": "developer",
+  "platform": {
+    "$oid": "61a8a4ac13910d09d49a38fe"
+  },
+  "createdAt": {
+    "$date": "2021-12-02T10:49:16.560Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-02T10:49:16.560Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a8a4ac13910d09d49a3902"
+  },
+  "name": "technician",
+  "platform": {
+    "$oid": "61a8a4ac13910d09d49a38fe"
+  },
+  "createdAt": {
+    "$date": "2021-12-02T10:49:16.561Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-02T10:49:16.561Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a8a4be13910d09d49a3904"
+  },
+  "name": "role1",
+  "platform": {
+    "$oid": "61a8a4be13910d09d49a3903"
+  },
+  "createdAt": {
+    "$date": "2021-12-02T10:49:34.227Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-02T10:49:34.227Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a8a4cf13910d09d49a3906"
+  },
+  "name": "role",
+  "platform": {
+    "$oid": "61a8a4cf13910d09d49a3905"
+  },
+  "createdAt": {
+    "$date": "2021-12-02T10:49:51.041Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-02T10:49:51.041Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a8a4e313910d09d49a3908"
+  },
+  "name": "role1",
+  "platform": {
+    "$oid": "61a8a4e313910d09d49a3907"
+  },
+  "createdAt": {
+    "$date": "2021-12-02T10:50:11.213Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-02T10:50:11.213Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a9e96478514323e0e32f18"
+  },
+  "name": "eee",
+  "platform": {
+    "$oid": "61a9e96478514323e0e32f17"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T09:54:44.846Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T09:54:44.846Z"
+  },
+  "__v": 0
+}]

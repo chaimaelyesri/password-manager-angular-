@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "61a9cf61eabbba2e58cdd7e8"
+  },
+  "Read": true,
+  "Write": true,
+  "User": null,
+  "PlatformRole": {
+    "$oid": "61a8a4ac13910d09d49a3900"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T08:03:45.735Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T14:26:56.252Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a9d71fc1965d09a8bc9671"
+  },
+  "Read": true,
+  "Write": true,
+  "User": null,
+  "PlatformRole": {
+    "$oid": "61a8a4ac13910d09d49a3900"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T08:36:47.255Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T14:26:56.252Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a9e17c5421a326ac592e6e"
+  },
+  "Read": true,
+  "Write": true,
+  "User": null,
+  "PlatformRole": {
+    "$oid": "61a8a4ac13910d09d49a3900"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T09:21:00.731Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T14:26:56.252Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a9e17c5421a326ac592e6f"
+  },
+  "Read": true,
+  "Write": true,
+  "User": null,
+  "PlatformRole": {
+    "$oid": "61a8a4ac13910d09d49a3900"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T09:21:00.732Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T14:26:56.252Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a9e17c5421a326ac592e70"
+  },
+  "Read": true,
+  "Write": true,
+  "User": null,
+  "PlatformRole": {
+    "$oid": "61a8a4ac13910d09d49a3900"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T09:21:00.732Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T14:26:56.252Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a9eab8e5869519a881f074"
+  },
+  "Read": true,
+  "Write": true,
+  "User": null,
+  "PlatformRole": {
+    "$oid": "61a8a4ac13910d09d49a3900"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T10:00:24.188Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T14:26:56.252Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a9f4fbe200ca2d64a240c3"
+  },
+  "Read": true,
+  "Write": true,
+  "User": null,
+  "PlatformRole": {
+    "$oid": "61a8a4ac13910d09d49a3900"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T10:44:11.740Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T14:26:56.252Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aa2841341e162934f6b292"
+  },
+  "Read": true,
+  "Write": true,
+  "User": null,
+  "PlatformRole": {
+    "$oid": "61a8a4ac13910d09d49a3900"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T14:22:57.985Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T14:26:56.252Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aa2841341e162934f6b293"
+  },
+  "Read": true,
+  "Write": true,
+  "User": null,
+  "PlatformRole": {
+    "$oid": "61a8a4ac13910d09d49a3900"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T14:22:57.985Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T14:26:56.252Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aa2a5b08861059a825305a"
+  },
+  "Read": false,
+  "Write": false,
+  "User": {
+    "$oid": "61aa2a5b08861059a8253059"
+  },
+  "PlatformRole": {
+    "$oid": "61a8a4ac13910d09d49a3901"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T14:31:55.401Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T14:31:55.401Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aa2a5b08861059a825305b"
+  },
+  "Read": false,
+  "Write": false,
+  "User": {
+    "$oid": "61aa2a5b08861059a8253059"
+  },
+  "PlatformRole": {
+    "$oid": "61a8a4ac13910d09d49a3902"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T14:31:55.401Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T14:31:55.401Z"
+  },
+  "__v": 0
+}]

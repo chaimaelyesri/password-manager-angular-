@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "61a8ab7399c8271f0050e8e3"
+  },
+  "FullName": "said",
+  "Username": "griouri",
+  "Password": "123456789",
+  "Platform": {
+    "$oid": "61a8a4ac13910d09d49a38fe"
+  },
+  "PlatformRole": {
+    "$oid": "61a8a4ac13910d09d49a3901"
+  },
+  "createdAt": {
+    "$date": "2021-12-02T11:18:11.487Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T10:24:40.844Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a9c4161e8c902fe4aefece"
+  },
+  "FullName": "agnet 100",
+  "Username": "agnet200",
+  "Password": "12345",
+  "Platform": {
+    "$oid": "61a8a4ac13910d09d49a38fe"
+  },
+  "PlatformRole": {
+    "$oid": "61a8a4ac13910d09d49a3900"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T07:15:34.658Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T07:15:34.658Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a9d1c3091ec610c00ff5ef"
+  },
+  "FullName": "admin",
+  "Username": "admin",
+  "Password": "admin",
+  "Platform": {
+    "$oid": "61a8a43b13910d09d49a38fb"
+  },
+  "PlatformRole": {
+    "$oid": "61a8a43b13910d09d49a38fc"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T08:13:55.795Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T08:13:55.795Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a9d9d9a57ded47383d92a1"
+  },
+  "FullName": "agent99",
+  "Username": "agent99",
+  "Password": "agnet99",
+  "Platform": {
+    "$oid": "61a8a4ac13910d09d49a38fe"
+  },
+  "PlatformRole": {
+    "$oid": "61a8a4ac13910d09d49a38ff"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T08:48:25.258Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T08:48:25.258Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aa36198d9e65588c4c89f8"
+  },
+  "FullName": "said",
+  "Username": "griouri",
+  "Password": "said1234",
+  "Platform": {
+    "$oid": "61a8a4ac13910d09d49a38fe"
+  },
+  "PlatformRole": {
+    "$oid": "61a8a4ac13910d09d49a3902"
+  },
+  "createdAt": {
+    "$date": "2021-12-03T15:22:01.791Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T15:22:01.791Z"
+  },
+  "__v": 0
+}]

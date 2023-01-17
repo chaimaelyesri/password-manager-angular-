@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "61aa2a5b08861059a8253059"
+  },
+  "FirstName": "hafid",
+  "LastName": "haid100",
+  "Email": "aba_center@gmail.com",
+  "salt": "c3aaccb0-5445-11ec-bb70-97d098b1b90c",
+  "hashed_password": "9b6dad94d61b1a3e3cc5e11b9a9ac774bc012bdb",
+  "Role": 200,
+  "createdAt": {
+    "$date": "2021-12-03T14:31:55.392Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T14:31:55.392Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aa2d1c6453a51f984feeca"
+  },
+  "FirstName": "admin",
+  "LastName": "admin",
+  "Email": "admin@gmail.com",
+  "salt": "6825c640-5447-11ec-8a0e-7394206980a0",
+  "hashed_password": "2ae034c07079563d38e5264dcad62d84f921072d",
+  "Role": 101,
+  "createdAt": {
+    "$date": "2021-12-03T14:43:40.844Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-03T14:43:40.844Z"
+  },
+  "__v": 0
+}]
